@@ -6,5 +6,5 @@ Para executar os comandos é necessário ter o git bash instalado, caso já este
         * git add *
         * git status
         * git commit -m "first commit"
-        * git push origin master 
+        * git push origin main 
 
